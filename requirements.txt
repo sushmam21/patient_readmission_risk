@@ -1,0 +1,13 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+xgboost==2.1.1
+imblearn==0.0
+shap==0.45.1
+fastapi==0.112.2
+uvicorn==0.30.6
+joblib==1.4.2
+pydantic==2.8.2
+python-multipart==0.0.9
+# Airflow is heavy; install only if you’ll run the DAG locally:
+# apache-airflow==2.10.2
